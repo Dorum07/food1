@@ -390,10 +390,17 @@ color: #DC780B;
 .qob{
     margin-top: 50px;
 }
+.f_row{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #FBF1E7;
+    height: 518px;
+}
 .f_row_right{
     width: 555px;
     height: 275px;
-    margin-top: 230px;
+    
 }
 .f_tht{
     width: 555px;
@@ -478,10 +485,7 @@ gap: 10px;
     gap: 190px;
     justify-content: center;
     width: 1144px;
-    /* background: #FBF1E7; */
-    
-    
-    
+   
 }
 .dad{
     margin-top: 100px;
